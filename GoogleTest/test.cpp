@@ -3,7 +3,7 @@
 
 TEST(TestSuiteSample, TestSample)
 {
-    //testing clin from  laptop
+
   int s = sum(2, 4);
   ASSERT_EQ(6, s);
 }
