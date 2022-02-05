@@ -1,8 +1,13 @@
 
-# Any log files
-
 # VS Code files and folder
 .vscode/
+.vs
 
 #CMake out/build folder ; check if this is need
 build/
+out
+
+cmake-build-debug
+cmake-build-release
+cmake-build-*
+.idea
